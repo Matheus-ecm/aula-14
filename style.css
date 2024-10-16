@@ -1,0 +1,47 @@
+body{
+    background: url(espaço.jpg);
+    text-align: center;
+}
+
+main{
+    background-color: rgb(52, 24, 84);
+    color: white;
+    width: 1200px;
+    padding: 30px;
+    margin: auto;
+    border-radius: 80px;
+    box-shadow: 15px 15px 15px rgb(red, green, blue);
+}
+
+h1{
+    font-weight: 400;
+    color: rgb(225, 225, 76);
+    box-shadow: 5px 5px 15px rgb(red, green, blue);
+}
+
+.imgplanetas{
+    width: 400px;
+    padding: 0px;
+    box-shadow: 10px 10px 10px yellow;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+p {
+    max-width: 600px;
+    padding: 80px;
+}
+
+footer{
+    color: white;
+}
+
+button{
+    background-color: rgb(203, 203, 6);
+    width: 100px;
+    border-radius: 80px;
+}
